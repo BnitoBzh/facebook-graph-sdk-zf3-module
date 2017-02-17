@@ -1,0 +1,14 @@
+{
+    "name": "bnito/facebook-graph-sdk-zf3-module",
+    "description": "Zend Framework 3 Module for Facebook Graph SDK",
+    "type": "library",
+    "require": {
+        "facebook/graph-sdk": "~5.0"
+    },
+    "authors": [
+        {
+            "name": "Benoit Fievet",
+            "email": "fievet.benoit@gmail.com"
+        }
+    ]
+}
